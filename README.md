@@ -221,3 +221,9 @@ $ composer cs-fix
 # Run PHPUnit tests:
 $ composer test
 ```
+
+## Demo
+
+Laminas Sample Album index page working
+
+![](./docs/laminas-index-working.png)
