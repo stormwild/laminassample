@@ -227,3 +227,8 @@ $ composer test
 Laminas Sample Album index page working
 
 ![](./docs/laminas-index-working.png)
+
+## Tasks
+
+To do [Forms and actions](https://docs.laminas.dev/tutorials/getting-started/forms-and-actions/)
+
